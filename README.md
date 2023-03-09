@@ -6,3 +6,5 @@ Chest X-Ray Disease Classification using 3 CNNS with and without the in-built cl
 3. CheXNet(modified DenseNet121)
 
 Dataset: https://www.kaggle.com/datasets/pranavraikokte/covid19-image-dataset
+
+weights for CheXNet: https://www.kaggle.com/datasets/theewok/chexnet-keras-weights
